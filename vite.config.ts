@@ -7,12 +7,9 @@ export default defineConfig({
     port: 8080,
     host: true
   },
-  preview: {
-    port: 8080,
-    host: true
-  },
   build: {
     outDir: 'dist',
-    emptyOutDir: true
+    emptyOutDir: true,
+    sourcemap: false
   }
 });
