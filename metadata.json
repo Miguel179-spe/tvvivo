@@ -1,0 +1,8 @@
+{
+  "name": "Live TV Streamer Pro",
+  "description": "A high-performance IPTV web player with HLS support, categorized channel lists, and advanced keyboard navigation for a cinematic TV experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
